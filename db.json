@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Mañana debo terminar el React Crash Course",
+      "day": "Julio 1 2021,  5:30 PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Debo realizar mas trabajos",
+      "day": "Julio 2 2021,  9:00 AM",
+      "reminder": false
+    },
+    {
+      "text": "Debo reforzar .js",
+      "day": "viernes 2 de julio ",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
